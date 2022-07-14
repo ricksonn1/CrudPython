@@ -1,2 +1,2 @@
-# Crud-filme-com-Listas
-Crud de filmes com lista criado por mim!
+# Crud de Filmes com listas em Python.
+Crud de filmes criado em python para praticar minhas habilidades na linguagem.
